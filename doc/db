@@ -1,0 +1,5 @@
+the database use is mongo
+apt-get install mongodb
+
+the driver mongo-django
+https://django-mongodb-engine.readthedocs.io/en/latest/topics/setup.html
