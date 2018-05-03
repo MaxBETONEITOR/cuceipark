@@ -1,0 +1,19 @@
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\Interfaz gráfica.exe.config
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\Interfaz gráfica.exe
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\Interfaz gráfica.pdb
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz_gráfica.Administrador.resources
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz_gráfica.Form1.resources
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz_gráfica.Gerente.resources
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz_gráfica.Properties.Resources.resources
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz gráfica.csproj.GenerateResource.Cache
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz gráfica.csproj.CoreCompileInputs.cache
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz gráfica.exe
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz gráfica.pdb
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz gráfica.csprojResolveAssemblyReference.cache
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\DBIMDataSet.Designer.cs
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\DBIMDataSet.xsc
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\DBIMDataSet.xsd
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\DBIMDataSet.xss
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\DBIM.mdf
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\bin\Debug\DBIM_log.ldf
+C:\Users\GEJA0\Desktop\Nueva carpeta\Interfaz gráfica\Interfaz gráfica\obj\Debug\Interfaz_gráfica.Control.resources
